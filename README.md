@@ -1,4 +1,6 @@
-# :us: About me :uk::
+# Sobre mim | About me
+
+## :us: :uk: About me
 
 Hi, I’m **@gdupim**.
 
@@ -6,7 +8,7 @@ Hi, I’m **@gdupim**.
 
 **Pronouns**: **he/him**.
 
-I’m interested in ***back-end*** and ***front-end programming***, currently **looking for a job** at these two ends. 
+I’m interested in ***back-end*** and ***front-end programming***, currently **looking for a job** at these two ends.
 
 Currently **working** on **personal projects**.
 
@@ -18,7 +20,7 @@ If you want to reach me, my Twitter is **@gdupim_**.
 
 **Fun fact**: "Dupim" is derived from the french surname "Dupin", which origins is from the english word "Dolphin" (the portuguese surname "Delfim" shares the same origin), but it's pronounced like "Dipan".
 
-# :brazil: Sobre mim :brazil::
+## :brazil: :portugal: Sobre mim
 
 Olá, sou **@gdupim**.
 
