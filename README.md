@@ -26,7 +26,7 @@ Olá, sou **@gdupim**.
 
 Tenho **16 anos de idade**, sou um **programador** :brazil: **brasileiro** :brazil: com um :us: **inglês** :uk: **decente**.
 
-**Pronomes:**: **ele/dele**.
+**Pronomes**: **ele/dele**.
 
 Estou interessando em ***programação back-end*** e ***front-end***, atualmente **procurando por um emprego** nessas duas áreas.
 
