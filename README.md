@@ -1,6 +1,8 @@
-# Sobre mim | About me
+# SOBRE MIM | ABOUT ME
 
-## :us: :uk: About me
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gdupim&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+## :us: ABOUT ME
 
 Hi, I’m **@gdupim**.
 
@@ -12,15 +14,50 @@ I’m interested in ***back-end*** and ***front-end programming***, currently **
 
 Currently **working** on **personal projects**.
 
-Knows *Java*, *C#*, *C* and *C++*, *HTML5*, *CSS3*, *Python* (kinda, I need to **revisit** it **soon**) and *SQL*.
+___
 
-Currently studying *HTML5*, *CSS3*, *Java*, *Python*, *JavaScript* and many more that **I will see** in the **future** as well.
+### WORKSPACE
 
-If you want to reach me, my Twitter is **@gdupim_**.
+Notebook:
+![image](https://img.shields.io/badge/Acer-Aspire_A315_23-83B81A?style=for-the-badge&logo=acer&logoColor=white)
 
-**Fun fact**: "Dupim" is derived from the french surname "Dupin", which origins is from the english word "Dolphin" (the portuguese surname "Delfim" shares the same origin), but it's pronounced like "Dipan".
+Notebook specifications:
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![image](https://img.shields.io/badge/AMD-Radeon_Vega_Mobile_Gfx-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![image](https://img.shields.io/badge/RAM-12GB-0078D6?style=for-the-badge&logo=&logoColor=white)
 
-## :brazil: :portugal: Sobre mim
+Program that I use to program:
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+___
+
+### SKILLS
+
+***Knows:***
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+(I need to **revisit Python soon**, I'm bit rusty).
+
+***Currently studying:***
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+(and many more that **I will see** in the **future** as well!)
+
+___
+
+### REACHE ME AT
+
+|***Contacts:***                                                                                                                  |***Username:***                     |
+|:-------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------:|
+|![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                               |**gabrdupim@gmail.com**             |  
+|![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)       |**gabriel.dupim@etec.sp.gov.br**    |
+|![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)                           |**gdupim#0363**                     |
+|![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)                           |**@gdupim_**                        |
+
+___
+
+**FUN FACT:**
+"Dupim" is derived from the french surname "Dupin", which origins is from the english word "Dolphin" (the portuguese surname "Delfim" shares the same origin), but it's pronounced like "Dipan".
+
+___
+
+## :brazil: SOBRE MIM
 
 Olá, sou **@gdupim**.
 
@@ -32,10 +69,44 @@ Estou interessando em ***programação back-end*** e ***front-end***, atualmente
 
 Atualmente **trabalhando** em **projetos pessoais**.
 
-Sei de *Java*, *C#*, *C* e *C++*, *HTML5*, *CSS3*, *Python* (mais ou menos, tenho que **rever ainda**) e *SQL*.
+___
 
-Atualmente estudando *HTML5*, *CSS3*, *Java*, *Python*, *JavaScript* e várias outras que eu **irei ver** no **futuro**.
+### ÁREA DE TRABALHO
 
-Se quiser me perguntar algo ou conversar comigo, meu Twitter é **@gdupim_**.
+Notebook:
+![image](https://img.shields.io/badge/Acer-Aspire_A315_23-83B81A?style=for-the-badge&logo=acer&logoColor=white)
 
-**Fato legal**: "Dupim" deriva do sobrenome francês "Dupin", que vem da palavra "Dolphin" do inglês (o sobrenome "Delfim" vem da mesma origem), mas é pronunciado como "Dipan".
+Especificações do notebook:
+![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![image](https://img.shields.io/badge/AMD-Radeon_Vega_Mobile_Gfx-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![image](https://img.shields.io/badge/RAM-12GB-0078D6?style=for-the-badge&logo=&logoColor=white)
+
+Programa que uso para programar:
+![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+___
+
+### HABILIDADES
+
+***Sei de:***
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+(tenho que ***rever Python ainda***, estou um pouco enferrujado).
+
+***Atualmente estudando:***
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![image](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+(e várias outras que eu **irei ver** no **futuro** também!).
+
+___
+
+### MEIOS DE CONTATO
+
+|***Contatos:***                                                                                                                  |***Nome de usuário:***              |
+|:-------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------:|
+|![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                               |**gabrdupim@gmail.com**             |  
+|![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)       |**gabriel.dupim@etec.sp.gov.br**    |
+|![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)                           |**gdupim#0363**                     |
+|![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)                           |**@gdupim_**                        |
+
+___
+
+**FATO LEGAL**: "Dupim" deriva do sobrenome francês "Dupin", que vem da palavra "Dolphin" do inglês (o sobrenome "Delfim" vem da mesma origem), mas é pronunciado como "Dipan".
+
+___
