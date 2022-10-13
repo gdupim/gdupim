@@ -6,7 +6,7 @@
 
 Hi, I’m **@gdupim**.
 
-**16 years old** :brazil: **Brazilian** :brazil: **programmer** with **decent skills in** :uk: **english** :us:.
+**26/08/2004** :brazil: **Brazilian** :brazil: **programmer** with **decent skills in** :uk: **english** :us:.
 
 **Pronouns**: **he/him**.
 
