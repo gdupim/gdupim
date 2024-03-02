@@ -10,7 +10,7 @@ Hi, I’m **@gdupim**.
 
 **Pronouns**: **he/him**.
 
-I’m interested in ***back-end*** and ***front-end programming***, currently **looking for a job** at these two ends.
+I’m interested in ***back-end*** and ***front-end programming***, and I am currently **looking for a job** at these two ends.
 
 Currently **working** on **personal projects**.
 
@@ -26,7 +26,7 @@ Notebook specifications:
 <br>
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/AMD-Ryzen_5_3500U-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![image](https://img.shields.io/badge/AMD-Radeon_Vega_Mobile_Gfx-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![image](https://img.shields.io/badge/RAM-12GB-0078D6?style=for-the-badge&logo=&logoColor=white)
 
-Program that I use to program:
+The program that I use to program stuff:
 <br>
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
@@ -38,7 +38,7 @@ ___
 <br>
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <br>
-(I need to **revisit Python soon**, I'm bit rusty).
+(I need to **revisit Python soon**, I'm a bit rusty).
 
 ***Currently studying:***
 <br>
@@ -48,7 +48,7 @@ ___
 
 ___
 
-### REACHE ME AT
+### REACH ME AT
 
 |***Contacts:***                                                                                                                  |***Username:***                     |
 |:-------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------:|
@@ -56,11 +56,12 @@ ___
 |![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)       |**gabriel.dupim@etec.sp.gov.br**    |
 |![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)                           |**gdupim#0363**                     |
 |![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)                           |**@gdupim_**                        |
+|![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                               |**gdupim@alunos.utfpr.edu.br**      |
 
 ___
 
 **FUN FACT:**
-"Dupim" is derived from the french surname "Dupin", which origins is from the english word "Dolphin" (the portuguese surname "Delfim" shares the same origin), but it's pronounced like "Dipan".
+"Dupim" is derived from the French surname "Dupin" which originates from the English word "Dolphin" (the Portuguese surname "Delfim" shares the same origin), but it's pronounced like "Dipan".
 
 ___
 
@@ -118,6 +119,7 @@ ___
 |![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)       |**gabriel.dupim@etec.sp.gov.br**    |
 |![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)                           |**gdupim#0363**                     |
 |![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)                           |**@gdupim_**                        |
+|![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)                               |**gdupim@alunos.utfpr.edu.br**      |
 
 ___
 
